@@ -7,9 +7,6 @@ src/.depend
 src/stockfish*
 src/-lstdc++.res
 
-# Neural network for the NNUE evaluation
-**/*.nnue
-
 
 # Build/test artifacts
 *.exe
